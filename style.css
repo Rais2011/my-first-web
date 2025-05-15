@@ -1,0 +1,145 @@
+body{
+
+    background: linear-gradient(white, skyblue);
+
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+}
+
+
+h1{
+
+    font-size: 50px;
+
+    text-align: center;
+
+    font-family: "Chonburi", serif;
+}
+
+#i1{
+
+    height: 7.5cm;
+
+    width: 6.5cm;
+
+    float: left;
+
+}
+
+#paragraph1{
+
+    font-size: 30px;
+
+    position: relative;
+
+    left: 8px;
+
+    font-family: "Luckiest Guy", cursive;
+}
+
+#i2{
+
+    height: 7.5cm;
+
+    width: 6.5cm;
+
+    float: right;
+
+}
+
+#paragraph2{
+
+    font-size: 30px;
+
+    position: relative;
+
+    bottom: 10px;
+
+    font-family: "Luckiest Guy", cursive;
+}
+
+#paragraph3{
+
+    font-size: 30px;
+
+    position: relative;
+
+    bottom: 10px;
+
+    font-family: "Luckiest Guy", cursive;
+}
+
+h2{
+
+    text-align: center;
+
+    font-size: 50px;
+
+    font-family: "Chonburi", serif;
+}
+
+#i3{
+
+    height: 350px;
+
+    width: 720px;
+
+    display: block;
+
+    margin: 20px auto;
+}
+
+#paragraph4{
+
+    font-size: 30px;
+
+    position: relative;
+
+    bottom: 10px;
+
+    font-family: "Luckiest Guy", cursive;
+}
+
+#i4{
+
+    height: 7.5cm;
+
+    width: 6.5cm;
+
+    float: left;
+
+    border: 5px solid black;
+}
+
+h3{
+
+    font-family: "Pacifico", cursive;
+}
+
+#facebook{
+
+    color: blue;
+
+    margin: 5px;
+
+    float: left;
+}
+
+#youtube{
+
+    color: red;
+
+    margin: 5px;
+
+    float: left;
+}
+
+.email-link{
+
+    color: red;
+
+    margin: 5px;
+
+    float: left;
+}
